@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Barcelona & Climate Change?
+*Ana Recio & Jaume Vicens*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics Full Time, Ironhack Barcelona & 01.11.2019]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,16 +16,23 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+At times where Climate Change headlines are more common than ever, this project intends to provide real and acurate data analysis to answer questions regarding climate change happening in Barcelona City. This project uses data available from Open Data BCN.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The main question of this project is: Is Climate Change happenning in Barcelona?
+We consider climate change happening if there is an increase of temperature above of 1,5ºC in a period of 100 years. This is the reference the Paris Agreement uses to control the increase of temperature in Planet Earth (1,5ºC in the XXI Century as a limit).
+But in order to answer this question, the project opens more specific questions:
+- Has the temperature increased in Barcelona in the last 200 years?
+- There is indeed a gap between years, can we confirm the increase is higher in the last years?
+- Are recent years having more extreme temperatues between seasons?
 
 ## Dataset
 What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+We used the 'Monthly average air temperatures of the city of Barcelona since 1780' from Open Data BCN.
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/temperatures-hist-bcn
+It is a single chart which shows every monthly average temperature since 1780.
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
@@ -41,3 +48,7 @@ Include links to your repository, slides and kanban board. Feel free to include 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/en)  
+[BCN Open Data](https://opendata-ajuntament.barcelona.cat/en)
+[1,5ºC Paris Agreement](https://www.bbc.com/news/science-environment-45678338)
+[1,5ºC Paris Agreement 2](https://www.ipcc.ch/sr15/chapter/glossary/)
+
