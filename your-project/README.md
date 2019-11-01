@@ -3,7 +3,7 @@
 # Barcelona & Climate Change?
 *Ana Recio & Jaume Vicens*
 
-*Data Analytics Full Time, Ironhack Barcelona & 01.11.2019]*
+*Data Analytics Full Time, Ironhack Barcelona - 01.11.2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -35,19 +35,36 @@ https://opendata-ajuntament.barcelona.cat/data/en/dataset/temperatures-hist-bcn
 It is a single chart which shows every monthly average temperature since 1780.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. First brainstorming to identify questions about Barcelona we would like to answer.
+2. Found common topics to analyze, then checked on available databases to confirm the topic of the project.
+3. Approach and definition of the main question the project is about.
+4. Research to evaluate which variables and conditions used to respond to that question.
+5. Data first screening and planning of how to approach both questions and datasets to start the analysis.
+6. Division of main question into a few smaller ones to approach the analysis from different scopes.
+7. First lines of code using Pandas. First data manipulation.
+8. First outputs and relative answers. Re-check of current questions and adaptation of them according to first results.
+9. Code development. First main challenges appeared when handling and organizing data.
+. Useful output discovered, analysis and observations start.
+10. Slides and readme development summing up the questions, outputs and results.
+11. Files and project final check.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Our work was organized through Trello which allowed us to set, organize and allocate the different tasks and to-do's of the project. We could add useful links, resources and set deadlines to know what to prioritize.
 
-What does your repository look like? Explain your folder and file structure.
+The project main code and data manipulation is hosted into the main.ipynb file.
+The project includes two complementary code:
+- slides_code.ipynb: Especific code applied to charts in main.ipynb to get specific output for the presentation.
+- annex.ipynb: Trial code used in some of the operations that did not completely work or reached the needed output.
+
+It also includes two DataSets, which contain the same information in two different formats:
+- temperaturesbarcelonadesde1780.csv
+- temperaturesbarcelonadesde1780_format_long.csv
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/jaumevr15/Project-Week-2-Barcelona)  
+[Slides](https://docs.google.com/presentation/d/193lKhBZjqm5KY_NDWXM5su6MMLWAdj0dzQuQmrmoNYg/edit?usp=sharing)  
+[Trello](https://trello.com/b/5Kc4ecZK/bcn-climate-week-2)  
 [BCN Open Data](https://opendata-ajuntament.barcelona.cat/en)
 [1,5ºC Paris Agreement](https://www.bbc.com/news/science-environment-45678338)
 [1,5ºC Paris Agreement 2](https://www.ipcc.ch/sr15/chapter/glossary/)
