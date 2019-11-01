@@ -27,9 +27,6 @@ But in order to answer this question, the project opens more specific questions:
 - Are recent years having more extreme temperatues between seasons?
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
-
-## Database
 We used the 'Monthly average air temperatures of the city of Barcelona since 1780' from Open Data BCN.
 https://opendata-ajuntament.barcelona.cat/data/en/dataset/temperatures-hist-bcn
 It is a single chart which shows every monthly average temperature since 1780.
